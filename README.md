@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenerion0&label=Profile%20views&color=0e75b6&style=flat" alt="kenerion0" /> </p>
 
-- 🔭 I’m currently working on [a Minecraft Tea Mod](https://github.com/Kenerion0/Tea-Mod)
+<!-- 🔭 I’m currently working on [a Minecraft Tea Mod](https://github.com/Kenerion0/Tea-Mod)-->
 
 - 🌱 I’m currently learning **java, javascript, kotlin**
 
